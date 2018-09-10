@@ -121,7 +121,8 @@
     "ngx-toasta": "0.1.0",
     "ng-busy": "6.0.0",
     "ng-click-outside": "4.0.0",
-    "handsontable": "5.0.0",
+    "handsontable": "5.0.1",
+    "@handsontable/angular" "5.0.1",
     "ngx-mask": "6.1.2",
     "json-server": "0.14.0"
   },
